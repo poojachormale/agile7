@@ -2,3 +2,6 @@
 Welcome to the new world of coding 
 JIRA
 SCRUM
+AGILE
+JSON
+GIT
